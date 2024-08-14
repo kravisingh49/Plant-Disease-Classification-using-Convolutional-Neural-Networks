@@ -37,12 +37,3 @@ jupyter notebook Plant_Disease_Classification.ipynb
 
 3. Follow the steps in the notebook to train and evaluate the model.
 
-## Results
-
-The model achieves an accuracy of **X%** on the validation set. 
-
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request for any features, bug fixes, or improvements.
-
-
