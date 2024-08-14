@@ -26,7 +26,7 @@ pip install tensorflow matplotlib numpy
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/plant-disease-classification.git
+git clone https://github.com/kravisingh49/plant-disease-classification.git
 ```
 
 2. Navigate to the project directory and open the notebook:
@@ -45,11 +45,4 @@ The model achieves an accuracy of **X%** on the validation set.
 
 Contributions are welcome! Please fork this repository and submit a pull request for any features, bug fixes, or improvements.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- [PlantVillage Dataset](https://plantvillage.psu.edu/)
-- [TensorFlow Documentation](https://www.tensorflow.org/)
